@@ -36,6 +36,8 @@ This project analyses retail sales performance using Microsoft Power BI. The das
 4. Study high-performing stores to identify practices that may be replicated elsewhere.
 5. Consider operating costs, profitability, staffing, and customer demand before making expansion decisions.
 
+<img width="1290" height="729" alt="Capture" src="https://github.com/user-attachments/assets/771a5ca3-da35-428b-801c-9b23462d7402" />
+
 
 <img width="1180" height="889" alt="DG LTD PERFORMANCE" src="https://github.com/user-attachments/assets/e9ce4c82-db0b-4aac-9832-ad8209b6b6a8" />
 
